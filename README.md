@@ -1,0 +1,1 @@
+# resilience-academy-geonode_for-Mac
